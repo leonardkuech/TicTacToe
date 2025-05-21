@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Environment files
+.env
+.env.*
+*.venv*
+tictactoe/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+dist/
+build/
+out/
+
+# Misc
+*.swp
+*.bak
+*.tmp
+
+# UV package manager
+.uv/
+uv-env/
+uv-cache/
+*.egg-info/
+
+#python 
+*.pyc
